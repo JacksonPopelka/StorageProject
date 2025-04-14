@@ -1,0 +1,32 @@
+Company Name,Location,Unit Size (ft),Square Feet,Price/Month ($),Price per Sq Ft,Unit Type,Climate Controlled (Y/N)
+Montrose Mini Storage,"Montrose, MN",5 x 10,50,55.0,1.1,Outdoor,N
+Montrose Mini Storage,"Montrose, MN",10 x 20,200,130.0,0.65,Outdoor,N
+Montrose Mini Storage,"Montrose, MN",10 x 22,220,143.0,0.65,Outdoor,N
+Howard Lake Mini Storage,"Howard Lake, MN",10 x 20,200,90.0,0.45,Drive-Up,N
+Howard Lake Mini Storage,"Howard Lake, MN",11 x 24,264,150.0,0.57,Drive-Up,N
+Howard Lake Mini Storage,"Howard Lake, MN",11 x 44,528,270.0,0.51,Drive-Up,N
+Howard Lake Mini Storage,"Howard Lake, MN",22 x 40,880,500.0,0.57,Drive-Up,N
+AJL Storage,"Starbuck, MN",10 x 20,200,125.0,0.63,Drive-Up,N
+AJL Storage,"Starbuck, MN",10 x 24,240,135.0,0.56,Drive-Up,N
+AJL Storage,"Starbuck, MN",11 x 24,264,145.0,0.55,Drive-Up,N
+Secure Storage,"Arlington, MN",10 x 22,220,70.0,0.32,Outdoor,N
+Secure Storage,"Arlington, MN",11 x 24,264,80.0,0.3,Outdoor,N
+Secure Storage,"Arlington, MN",11 x 44,528,120.0,0.23,Outdoor,N
+Attic Storage,"Monticello, MN",10 x 20,200,94.0,0.47,Indoor,Y
+Attic Storage,"Monticello, MN",11 x 20,220,166.0,0.75,Indoor,Y
+Attic Storage,"Monticello, MN",13 x 24,312,210.0,0.67,Indoor,Y
+Buffalo Storage,"Buffalo, MN",5 x 5,25,48.0,1.92,Outdoor,N
+Buffalo Storage,"Buffalo, MN",5 x 10,50,55.0,1.1,Outdoor,N
+Buffalo Storage,"Buffalo, MN",5 x 23,115,85.0,0.74,Outdoor,N
+Buffalo Storage,"Buffalo, MN",10 x 11,110,90.0,0.82,Outdoor,N
+Buffalo Storage,"Buffalo, MN",10 x 20,200,140.0,0.7,Outdoor,N
+Buffalo Storage,"Buffalo, MN",10 x 22,220,150.0,0.68,Outdoor,N
+Buffalo Storage,"Buffalo, MN",10 x 24,240,165.0,0.69,Outdoor,N
+Buffalo Storage,"Buffalo, MN",11 x 20,220,155.0,0.7,Outdoor,N
+Buffalo Storage,"Buffalo, MN",11 x 24,264,175.0,0.66,Outdoor,N
+Buffalo Storage,"Buffalo, MN",11 x 28,308,230.0,0.75,Outdoor,N
+Buffalo Storage,"Buffalo, MN",11 x 44,484,360.0,0.74,Outdoor,N
+Buffalo Storage,"Buffalo, MN",13 x 20,260,180.0,0.69,Outdoor,N
+Buffalo Storage,"Buffalo, MN",13 x 24,312,209.0,0.67,Outdoor,N
+Buffalo Storage,"Buffalo, MN",20 x 22,440,340.0,0.77,Outdoor,N
+Buffalo Storage,"Buffalo, MN",22 x 40,880,590.0,0.67,Outdoor,N
